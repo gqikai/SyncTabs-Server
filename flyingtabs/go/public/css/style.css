@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+div {
+	width: 300px;
+}
+
+.top {
+	width: 80px;
+}
+
+input {
+	width: 200px;
+}
+
+button {
+	width: 80px height : 25px;
+}

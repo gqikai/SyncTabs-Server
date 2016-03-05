@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form>
+	{foreach $data as $k => $v}
+	<fieldset>
+		<legend>{$k|date_format:"%Y-%I-%d %H-%M-%S"}</legend>
+			<table>
+				{foreach $v as $k1 => $v1}
+				<tr>
+					<td>
+					<a href="{$v1['url']}">
+						{$v1['title']}
+					</a>
+					</td>
+				</tr>
+				{/foreach}
+			</table>
+	</fieldset>
+	{/foreach}
+</form>
+		
+		
+</body>
+</html>

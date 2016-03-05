@@ -1,0 +1,1948 @@
+[ 2015-10-15T09:00:51+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014647s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000469s ]
+
+[ 2015-10-15T09:00:53+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015290s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000467s ]
+
+[ 2015-10-15T09:00:55+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013140s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000440s ]
+
+[ 2015-10-15T09:03:05+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024638s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000660s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:03:09+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024628s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.001018s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:03:13+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013286s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'Maria3444' ) LIMIT 1   [ RunTime:0.000397s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('Maria3444','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.088723s ]
+
+[ 2015-10-15T09:03:14+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011927s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000389s ]
+
+[ 2015-10-15T09:03:16+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.020953s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan432423443' ) LIMIT 1   [ RunTime:0.000404s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan432423443','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.081625s ]
+
+[ 2015-10-15T09:03:18+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023820s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan23414' ) LIMIT 1   [ RunTime:0.000778s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan23414','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.072510s ]
+
+[ 2015-10-15T09:04:25+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022721s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000514s ]
+
+[ 2015-10-15T09:04:26+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010998s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000385s ]
+
+[ 2015-10-15T09:04:27+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024325s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000843s ]
+
+[ 2015-10-15T09:04:28+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009263s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000362s ]
+
+[ 2015-10-15T09:04:29+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010420s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000363s ]
+
+[ 2015-10-15T09:04:30+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013036s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000408s ]
+
+[ 2015-10-15T09:04:31+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.032835s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000325s ]
+
+[ 2015-10-15T09:04:32+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012485s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000603s ]
+
+[ 2015-10-15T09:04:33+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014386s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000528s ]
+
+[ 2015-10-15T09:04:34+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009745s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000415s ]
+
+[ 2015-10-15T09:04:37+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010457s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000446s ]
+
+[ 2015-10-15T09:05:31+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024469s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000712s ]
+
+[ 2015-10-15T09:05:33+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015235s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000616s ]
+
+[ 2015-10-15T09:05:35+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023553s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000887s ]
+
+[ 2015-10-15T09:05:36+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022821s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000573s ]
+
+[ 2015-10-15T09:05:38+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014600s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000473s ]
+
+[ 2015-10-15T09:05:39+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023368s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000768s ]
+
+[ 2015-10-15T09:05:41+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013859s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000425s ]
+
+[ 2015-10-15T09:05:43+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024462s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000822s ]
+
+[ 2015-10-15T09:05:44+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026486s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000797s ]
+
+[ 2015-10-15T09:05:46+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025053s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000752s ]
+
+[ 2015-10-15T09:05:48+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013156s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000449s ]
+
+[ 2015-10-15T09:05:49+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011396s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000480s ]
+
+[ 2015-10-15T09:05:50+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009905s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000430s ]
+
+[ 2015-10-15T09:05:51+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013523s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000401s ]
+
+[ 2015-10-15T09:05:52+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011491s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000390s ]
+
+[ 2015-10-15T09:05:53+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012583s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000491s ]
+
+[ 2015-10-15T09:05:54+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011263s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000400s ]
+
+[ 2015-10-15T09:05:55+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023267s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000372s ]
+
+[ 2015-10-15T09:05:56+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012077s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000484s ]
+
+[ 2015-10-15T09:05:57+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010989s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000294s ]
+
+[ 2015-10-15T09:05:58+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011305s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000366s ]
+
+[ 2015-10-15T09:06:00+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015092s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000445s ]
+
+[ 2015-10-15T09:06:01+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014113s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000338s ]
+
+[ 2015-10-15T09:06:02+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.016456s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000465s ]
+
+[ 2015-10-15T09:06:03+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.018235s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000401s ]
+
+[ 2015-10-15T09:06:04+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026431s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000475s ]
+
+[ 2015-10-15T09:06:05+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.037697s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000632s ]
+
+[ 2015-10-15T09:06:06+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010032s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000344s ]
+
+[ 2015-10-15T09:06:07+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.016381s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000335s ]
+
+[ 2015-10-15T09:06:08+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.039812s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000458s ]
+
+[ 2015-10-15T09:06:09+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.028632s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000454s ]
+
+[ 2015-10-15T09:06:10+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010338s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000540s ]
+
+[ 2015-10-15T09:06:12+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025987s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000840s ]
+
+[ 2015-10-15T09:06:13+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026128s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000745s ]
+
+[ 2015-10-15T09:06:14+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010723s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000297s ]
+
+[ 2015-10-15T09:06:15+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011078s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000366s ]
+
+[ 2015-10-15T09:06:16+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009903s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000547s ]
+
+[ 2015-10-15T09:06:17+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013851s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000443s ]
+
+[ 2015-10-15T09:06:18+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015649s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000521s ]
+
+[ 2015-10-15T09:06:19+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024934s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000500s ]
+
+[ 2015-10-15T09:06:20+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027211s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000393s ]
+
+[ 2015-10-15T09:06:21+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024885s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000868s ]
+
+[ 2015-10-15T09:06:22+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026460s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000777s ]
+
+[ 2015-10-15T09:06:24+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023786s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000491s ]
+
+[ 2015-10-15T09:06:25+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015046s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000431s ]
+
+[ 2015-10-15T09:06:26+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.018174s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000467s ]
+
+[ 2015-10-15T09:06:27+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010474s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000375s ]
+
+[ 2015-10-15T09:06:28+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010812s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000419s ]
+
+[ 2015-10-15T09:06:29+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010068s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000366s ]
+
+[ 2015-10-15T09:06:30+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024757s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000830s ]
+
+[ 2015-10-15T09:06:31+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012763s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000508s ]
+
+[ 2015-10-15T09:06:32+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011786s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000340s ]
+
+[ 2015-10-15T09:06:33+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025105s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000482s ]
+
+[ 2015-10-15T09:06:34+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011224s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000348s ]
+
+[ 2015-10-15T09:08:57+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025071s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.001026s ]
+
+[ 2015-10-15T09:09:03+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001467s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015206s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000540s ]
+
+[ 2015-10-15T09:09:28+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027446s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000383s ]
+
+[ 2015-10-15T09:17:42+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.029127s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000829s ]
+
+[ 2015-10-15T09:21:06+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025075s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000482s ]
+
+[ 2015-10-15T09:21:08+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023609s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000783s ]
+
+[ 2015-10-15T09:21:09+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.029704s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000399s ]
+
+[ 2015-10-15T09:21:21+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024014s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000742s ]
+
+[ 2015-10-15T09:21:22+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023625s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000810s ]
+
+[ 2015-10-15T09:24:25+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025774s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000377s ]
+
+[ 2015-10-15T09:24:27+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010932s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000408s ]
+
+[ 2015-10-15T09:24:28+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010517s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000431s ]
+
+[ 2015-10-15T09:24:29+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.017231s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000308s ]
+
+[ 2015-10-15T09:24:30+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009744s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000402s ]
+
+[ 2015-10-15T09:24:31+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.019798s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000498s ]
+
+[ 2015-10-15T09:24:32+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010525s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000406s ]
+
+[ 2015-10-15T09:24:33+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012963s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000402s ]
+
+[ 2015-10-15T09:24:34+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014661s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000590s ]
+
+[ 2015-10-15T09:24:35+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010451s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000386s ]
+
+[ 2015-10-15T09:24:36+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027076s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000790s ]
+
+[ 2015-10-15T09:24:37+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024305s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000411s ]
+
+[ 2015-10-15T09:24:38+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011089s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000494s ]
+
+[ 2015-10-15T09:24:40+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025839s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000835s ]
+
+[ 2015-10-15T09:24:41+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.036653s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000352s ]
+
+[ 2015-10-15T09:24:42+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011062s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000363s ]
+
+[ 2015-10-15T09:24:43+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014829s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000481s ]
+
+[ 2015-10-15T09:24:44+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013856s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000508s ]
+
+[ 2015-10-15T09:24:45+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011341s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000297s ]
+
+[ 2015-10-15T09:24:46+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010345s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000494s ]
+
+[ 2015-10-15T09:24:47+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023736s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000779s ]
+
+[ 2015-10-15T09:24:48+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009875s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000487s ]
+
+[ 2015-10-15T09:24:49+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012710s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000440s ]
+
+[ 2015-10-15T09:24:50+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014049s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000364s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:52+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011326s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000361s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:53+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.016127s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000709s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:54+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011984s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000373s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:55+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.042050s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000570s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:56+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011517s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000411s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:57+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.028296s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000816s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:58+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012948s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000787s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:24:59+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002307s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011125s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000374s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:25:00+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011324s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000412s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:25:01+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026451s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000781s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:25:02+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011811s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000407s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:25:03+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027185s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000834s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:25:55+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014993s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000649s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:25:56+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010484s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000433s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:26:07+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012540s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:26:08+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.020675s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000488s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:26:09+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023928s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000868s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:26:10+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022837s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000546s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:26:12+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/login
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.046981s ]
+SQL: select * from ft_user where user_name = 'zhangSan' and user_pass = '96e79218965eb72c92a549dd5a330112'; [ RunTime:0.000550s ]
+NOTIC: [8] Undefined index: username D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\UserAction.class.php 第 15 行.
+
+[ 2015-10-15T09:26:36+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/Tab/sync
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_tab` [ RunTime:0.034884s ]
+NOTIC: [8] Undefined offset: 1 D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\TabAction.class.php 第 13 行.
+NOTIC: [8] Undefined variable: sql D:\amp\apache\htdocs\static\think\flyingtabs\Lib\Action\TabAction.class.php 第 19 行.
+
+[ 2015-10-15T09:27:44+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.018755s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000460s ]
+
+[ 2015-10-15T09:30:37+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014507s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000430s ]
+
+[ 2015-10-15T09:30:39+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022735s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000971s ]
+
+[ 2015-10-15T09:31:03+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.033263s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000384s ]
+
+[ 2015-10-15T09:31:04+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013337s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000433s ]
+
+[ 2015-10-15T09:31:05+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013163s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000396s ]
+
+[ 2015-10-15T09:31:07+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026744s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000603s ]
+
+[ 2015-10-15T09:31:08+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014392s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000404s ]
+
+[ 2015-10-15T09:31:09+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025129s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000447s ]
+
+[ 2015-10-15T09:31:10+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014937s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000501s ]
+
+[ 2015-10-15T09:31:11+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025197s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000807s ]
+
+[ 2015-10-15T09:31:12+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025425s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000514s ]
+
+[ 2015-10-15T09:31:13+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011543s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000434s ]
+
+[ 2015-10-15T09:31:14+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026872s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000730s ]
+
+[ 2015-10-15T09:33:56+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026065s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000771s ]
+
+[ 2015-10-15T09:35:24+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.030624s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000412s ]
+
+[ 2015-10-15T10:33:45+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.020393s ]
+
+[ 2015-10-15T10:33:47+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010987s ]
+
+[ 2015-10-15T10:33:48+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010668s ]
+
+[ 2015-10-15T10:35:57+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024292s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000722s ]
+
+[ 2015-10-15T10:36:04+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001276s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.019482s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan123213123' ) LIMIT 1   [ RunTime:0.000373s ]
+
+[ 2015-10-15T10:48:31+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011390s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000371s ]
+
+[ 2015-10-15T11:08:38+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022241s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000410s ]
+
+[ 2015-10-15T11:08:41+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.018879s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan432144' ) LIMIT 1   [ RunTime:0.000647s ]
+
+[ 2015-10-15T11:15:55+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012068s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000413s ]
+
+[ 2015-10-15T11:23:31+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027961s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000406s ]
+
+[ 2015-10-15T11:25:39+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012597s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000375s ]
+
+[ 2015-10-15T11:25:40+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027863s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000399s ]
+
+[ 2015-10-15T11:25:42+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010844s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000370s ]
+
+[ 2015-10-15T11:25:43+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011482s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000386s ]
+
+[ 2015-10-15T11:25:45+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.019186s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000592s ]
+
+[ 2015-10-15T11:25:57+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010507s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan2313' ) LIMIT 1   [ RunTime:0.000427s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan2313','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.083935s ]
+
+[ 2015-10-15T11:25:58+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013206s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan2313' ) LIMIT 1   [ RunTime:0.000502s ]
+
+[ 2015-10-15T11:28:04+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.016357s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000533s ]
+
+[ 2015-10-15T11:28:10+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014046s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan2112121' ) LIMIT 1   [ RunTime:0.000547s ]
+
+[ 2015-10-15T11:28:12+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010789s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan2112121' ) LIMIT 1   [ RunTime:0.000456s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan2112121','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.077862s ]
+
+[ 2015-10-15T11:28:27+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010545s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSandfgg' ) LIMIT 1   [ RunTime:0.000402s ]
+
+[ 2015-10-15T11:28:28+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009701s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSandfgg' ) LIMIT 1   [ RunTime:0.000370s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSandfgg','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.090486s ]
+
+[ 2015-10-15T11:29:47+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012098s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan343242' ) LIMIT 1   [ RunTime:0.000334s ]
+
+[ 2015-10-15T11:29:55+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025221s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan343242' ) LIMIT 1   [ RunTime:0.000592s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan343242','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.086108s ]
+
+[ 2015-10-15T11:31:11+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014392s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan232132131' ) LIMIT 1   [ RunTime:0.000481s ]
+
+[ 2015-10-15T11:31:17+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015401s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan232132131' ) LIMIT 1   [ RunTime:0.000522s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan232132131','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.078667s ]
+
+[ 2015-10-15T11:31:21+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013354s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000362s ]
+
+[ 2015-10-15T11:31:27+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011193s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan32432' ) LIMIT 1   [ RunTime:0.000383s ]
+
+[ 2015-10-15T11:31:30+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015399s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan32432' ) LIMIT 1   [ RunTime:0.000453s ]
+
+[ 2015-10-15T11:31:31+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011705s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan32432' ) LIMIT 1   [ RunTime:0.000358s ]
+
+[ 2015-10-15T11:32:39+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.031256s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000990s ]
+
+[ 2015-10-15T11:32:45+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012271s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan43241341234' ) LIMIT 1   [ RunTime:0.000378s ]
+
+[ 2015-10-15T11:32:46+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.011167s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan43241341234' ) LIMIT 1   [ RunTime:0.000426s ]
+
+[ 2015-10-15T11:33:39+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012675s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan' ) LIMIT 1   [ RunTime:0.000369s ]
+
+[ 2015-10-15T11:33:45+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027092s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan98798' ) LIMIT 1   [ RunTime:0.000826s ]
+
+[ 2015-10-15T11:33:46+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.027459s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan98798' ) LIMIT 1   [ RunTime:0.000878s ]
+
+[ 2015-10-15T11:33:54+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.033482s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan75676' ) LIMIT 1   [ RunTime:0.000357s ]
+
+[ 2015-10-15T11:33:55+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010319s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan75676' ) LIMIT 1   [ RunTime:0.000360s ]
+
+[ 2015-10-15T15:34:00+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026981s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan43432432' ) LIMIT 1   [ RunTime:0.000857s ]
+
+[ 2015-10-15T15:34:12+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025985s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan43432432' ) LIMIT 1   [ RunTime:0.000824s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan43432432','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.086290s ]
+
+[ 2015-10-15T15:34:24+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010771s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan897689' ) LIMIT 1   [ RunTime:0.000454s ]
+
+[ 2015-10-15T15:34:30+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012245s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan897689' ) LIMIT 1   [ RunTime:0.000357s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan897689','96e79218965eb72c92a549dd5a330112','') [ RunTime:0.039624s ]
+
+[ 2015-10-15T15:34:46+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.009109s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan3424' ) LIMIT 1   [ RunTime:0.000383s ]
+
+[ 2015-10-15T15:34:47+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.021010s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan3424' ) LIMIT 1   [ RunTime:0.000826s ]
+
+[ 2015-10-15T15:35:01+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022852s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfsdfas' ) LIMIT 1   [ RunTime:0.000897s ]
+
+[ 2015-10-15T15:35:02+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.021493s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfsdfas' ) LIMIT 1   [ RunTime:0.000814s ]
+
+[ 2015-10-15T15:45:23+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\amp\apache\htdocs\static\think\ThinkPHP\Common\functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013967s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan-098' ) LIMIT 1   [ RunTime:0.000570s ]
+
+[ 2015-10-15T15:52:10+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022875s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan-098' ) LIMIT 1   [ RunTime:0.000758s ]
+
+[ 2015-10-15T15:57:45+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026400s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan432324' ) LIMIT 1   [ RunTime:0.000929s ]
+
+[ 2015-10-15T15:57:50+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.022747s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan432324' ) LIMIT 1   [ RunTime:0.000529s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan432324','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.076944s ]
+
+[ 2015-10-15T15:58:26+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025848s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdfdsf' ) LIMIT 1   [ RunTime:0.001018s ]
+
+[ 2015-10-15T15:58:27+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023310s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdfdsf' ) LIMIT 1   [ RunTime:0.000863s ]
+
+[ 2015-10-15T15:58:32+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.028783s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfsdfsd' ) LIMIT 1   [ RunTime:0.000475s ]
+
+[ 2015-10-15T15:58:43+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010616s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfsdfsd' ) LIMIT 1   [ RunTime:0.000488s ]
+
+[ 2015-10-15T15:58:47+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.013254s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfsdfsddsf' ) LIMIT 1   [ RunTime:0.000448s ]
+
+[ 2015-10-15T15:58:51+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.015317s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfsdfsddsf' ) LIMIT 1   [ RunTime:0.000553s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSanfsdfsddsf','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.089704s ]
+
+[ 2015-10-15T15:59:02+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010878s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan3424' ) LIMIT 1   [ RunTime:0.000391s ]
+
+[ 2015-10-15T15:59:10+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023830s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan3424' ) LIMIT 1   [ RunTime:0.000837s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan3424','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.083120s ]
+
+[ 2015-10-15T15:59:53+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026078s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdsfdffds' ) LIMIT 1   [ RunTime:0.000879s ]
+
+[ 2015-10-15T15:59:59+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002999s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.025257s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdsfdffds' ) LIMIT 1   [ RunTime:0.000551s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSanfdsfdffds','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.076783s ]
+
+[ 2015-10-15T16:00:05+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.036362s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdsfsd' ) LIMIT 1   [ RunTime:0.000373s ]
+
+[ 2015-10-15T16:00:12+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.019766s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdsfsd' ) LIMIT 1   [ RunTime:0.000532s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSanfdsfsd','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.093159s ]
+
+[ 2015-10-15T16:01:01+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.012812s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSandsf' ) LIMIT 1   [ RunTime:0.000378s ]
+
+[ 2015-10-15T16:01:02+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.056396s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSandsf' ) LIMIT 1   [ RunTime:0.000565s ]
+
+[ 2015-10-15T16:02:46+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026164s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanrewrew' ) LIMIT 1   [ RunTime:0.000804s ]
+
+[ 2015-10-15T16:02:51+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.010741s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanrewrew' ) LIMIT 1   [ RunTime:0.000440s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSanrewrew','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.072319s ]
+
+[ 2015-10-15T16:06:23+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.014652s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSansdfsadfsda' ) LIMIT 1   [ RunTime:0.000526s ]
+
+[ 2015-10-15T16:06:25+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.023435s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSansdfsadfsda' ) LIMIT 1   [ RunTime:0.000450s ]
+
+[ 2015-10-15T16:06:41+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.018796s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan321323' ) LIMIT 1   [ RunTime:0.000534s ]
+
+[ 2015-10-15T16:06:42+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.030351s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSan321323' ) LIMIT 1   [ RunTime:0.000953s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSan321323','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.072337s ]
+
+[ 2015-10-15T16:06:50+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/checkUsername
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.026277s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdsfasdfsd' ) LIMIT 1   [ RunTime:0.000384s ]
+
+[ 2015-10-15T16:06:57+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/User/regist
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' D:\amp\apache\htdocs\static\think\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+SQL: SHOW COLUMNS FROM `ft_user` [ RunTime:0.024804s ]
+SQL: SELECT * FROM `ft_user` WHERE ( `user_name` = 'zhangSanfdsfasdfsd' ) LIMIT 1   [ RunTime:0.000833s ]
+SQL: INSERT INTO `ft_user` (`user_name`,`user_pass`,`email`) VALUES ('zhangSanfdsfasdfsd','96e79218965eb72c92a549dd5a330112','zhangSan@126.com') [ RunTime:0.077043s ]
+

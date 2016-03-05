@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="flyingtabs/Conf"/>
+	<buildpathentry kind="src" path="flyingtabs/go"/>
+	<buildpathentry kind="src" path="flyingtabs/Lib/Action"/>
+	<buildpathentry kind="src" path="flyingtabs/Runtime/Cache/GROUP_NAME"/>
+	<buildpathentry kind="src" path="ThinkPHP"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

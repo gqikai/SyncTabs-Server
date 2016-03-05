@@ -1,0 +1,9 @@
+[ 2015-10-13T09:16:19+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php//User/showLogin
+ERR: 非法操作:showLogin
+
+[ 2015-10-13T19:09:00+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php//User/registcaptcha
+ERR: 非法操作:registcaptcha
+
+[ 2015-10-13T19:10:03+08:00 ] 127.0.0.1 /think/flyingtabs/go/index.php/Usercaptcha
+ERR: 无法加载模块:Usercaptcha
+

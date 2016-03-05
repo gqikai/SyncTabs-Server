@@ -1,0 +1,92 @@
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<!--<html xmlns="http://www.w3.org/1999/xhtml">-->
+<!--<head>-->
+	<!--<title>FlyingTabs</title>-->
+	<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
+<!--</head>-->
+
+<!--<frameset rows="10%,90%">-->
+<!--<frame src="{$smarty.const.INDEX_URL}/Index/head">-->
+<!--<frame src="{$smarty.const.INDEX_URL}/Index/body" name="body">-->
+<!--</frameset>-->
+
+<!--</html>-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SyncTabs</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="{$smarty.const.CSS_URL}/bootstrap.css">
+	<script src="{$smarty.const.JS_URL}/jquery-1.11.1.js"></script>
+	<script src="{$smarty.const.JS_URL}/bootstrap.js"></script>
+	<link rel="stylesheet" href="{$smarty.const.CSS_URL}/main.css">
+
+</head>
+<body>
+
+<nav class="navbar navbar-default" role="navigation">
+	<div class="navbar-header">
+		<a class="navbar-brand" href="#">LOGO</a>
+	</div>
+	<div>
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="#">注册</a></li>
+			<li><a href="#">登录</a></li>
+		</ul>
+	</div>
+</nav>
+
+
+<div class="login panel panel-primary">
+	<div class="panel-heading"><em>LOGIN </em>登陆</div>
+	<div class="form panel-body">
+		<form id="loginForm" method="post" action="{$smarty.const.INDEX_URL}User/login">
+			<ul>
+				<li>
+					<span>用户名：</span>
+					<input id='loginUsername' name="user_name"
+                           value="zhangSan" class="text" value='zhangSan' type="text">
+					<label>
+						<input type="checkbox">
+						<strong>记住我</strong>
+					</label>
+				</li>
+				<li>
+					<span>密&nbsp;&nbsp;&nbsp;码：</span>
+					<input id="loginPassword" type="password" name="user_pass"
+                           value="111111" >
+					<input  id="loginButton" class="btn" type="submit" name="login" value="登陆">
+				</li>
+			</ul>
+		</form>
+	</div>
+	<p>
+		<a id="toRegist" href="#">新用户注册</a>
+		<a href="#">忘记密码</a>
+	</p>
+</div>
+
+
+<div class="sync panel panel-default" >
+	<div class="panel-heading"><em>SYNC </em>同步标签  welcome,<em id="username"></em>
+		<a id='logout' href=''>logout</a>
+	</div>
+	<ul class="tabList list-group">
+		<li>
+			<div class="tab_info list-group-item">
+				<img src="https://reg.jd.com/favicon.ico">
+				<div>
+					<a class="title" href="#">狗东</a>
+					<p>www.jd.com</p>
+				</div>
+			</div>
+		</li>
+	</ul>
+	<p>
+		<a href="#">查看同步历史记录</a>
+	</p>
+</div>
+
+</body>
+</html>
