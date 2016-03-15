@@ -29,25 +29,27 @@ class TabAction extends Action {
 	public function history() {
 		//showBug($_SESSION);
 		$model = new TabModel ();
-/*		select 类别, SUM(数量)from A
-where 数量 gt;8
-group by 类别
-having SUM(数量) gt; 10
-*/
+            /*		select 类别, SUM(数量)from A
+            where 数量 gt;8
+            group by 类别
+            having SUM(数量) gt; 10
+            */
 		$index = $model->query("select synctime,user_name,SUM(synctime) from ft_tab
-		 where user_name = '" . $_SESSION['user_name'] . "' group by synctime;");
+		 where user_name = '" . 'zhangSan' . "' group by synctime;");
 		$data = array ();
 		//showBug($index);
 		//showBug($_SESSION);
 		foreach ( $index as $tab ) {
 			$sql = "select * from ft_tab where user_name = '"
-			 . $_SESSION['user_name'] . "' and synctime ='" . $tab ['synctime'] . "';";
+			 . 'zhangSan' . "' and synctime ='" . $tab ['synctime'] . "';";
 			$tabs = $model->query ( $sql );
 			$data [$tab ['synctime']] = $tabs;
 		}
-		//showBug ( $data );
-		$this->assign("data",$data);
-		$this->display ();
+        echo json_encode($data);
+			//var_dump($_SESSION);
+		//var_dump($data);
+//		$this->assign("data",$data);
+//		$this->display ();
 	}
 
 }
